@@ -35,3 +35,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SqlAlchemy" alt="SqlAlchemy" width="50" height="50"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" alt="Vscode" width="50" height="50"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JamesJWarner&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
