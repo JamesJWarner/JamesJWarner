@@ -40,11 +40,11 @@
 
 ### :card_index_dividers: My Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=data-analytics-power-bi-report111)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=exploratory-data-analysis---customer-loans-in-finance542)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=data-analytics-power-bi-report111)](https://github.com/JamesJWarner/data-analytics-power-bi-report111)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=exploratory-data-analysis---customer-loans-in-finance542)](https://github.com/JamesJWarner/exploratory-data-analysis---customer-loans-in-finance542)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=hangman)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=movie-assistant)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=hangman)](https://github.com/JamesJWarner/hangman)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=movie-assistant)](https://github.com/JamesJWarner/movie-assistant)
 
 ---
 
