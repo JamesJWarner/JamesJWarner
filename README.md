@@ -38,5 +38,18 @@
 
 ---
 
+### :card_index_dividers: My Projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=data-analytics-power-bi-report111)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=exploratory-data-analysis---customer-loans-in-finance542)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=hangman)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=movie-assistant)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JamesJWarner&theme=whatsapp-light)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JamesJWarner&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
