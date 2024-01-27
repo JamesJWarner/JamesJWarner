@@ -8,13 +8,19 @@
     </a>
 </div>
 
-## My name is James Warner, welcome to my GitHub!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=500&center=true&vCenter=true&multiline=true&random=false&width=500&height=140&lines=My+name+is+James+Warner%2C;Welcome+to+my+GitHub!+%F0%9F%91%8B" alt="My name is James Warner, welcome to my GitHub!"/>
+</h1>
+<h3 align="center"> :man_technologist: About Me : </h3>
 
-### :man_technologist: About Me :
-- :england: I am a Junior Data Analyst from England. 
-- :bar_chart: I’m currently working on PowerBI & SQL.
-- :computer: I’m looking to collaborate on a new data project.
-- 💬 Feel free to ask me any questions!
+<div align="center">
+
+:england: I am a Junior Data Analyst from England. 
+:bar_chart: I’m currently working on PowerBI & SQL.
+:computer: I’m looking to collaborate on a new data project.
+💬 Feel free to ask me any questions!
+
+</div>
 
 ---
 
