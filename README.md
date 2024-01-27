@@ -14,10 +14,12 @@
 <h3 align="center"> :man_technologist: About Me : </h3>
 
 <div align="center">
-
-:england: I am a Junior Data Analyst from England. 
+:england: I am a Junior Data Analyst from England.
+<br/>
 :bar_chart: I’m currently working on PowerBI & SQL.
+<br/>
 :computer: I’m looking to collaborate on a new data project.
+<br/>
 💬 Feel free to ask me any questions!
 
 </div>
