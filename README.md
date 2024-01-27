@@ -20,7 +20,7 @@
 <br/>
 :computer: I’m looking to collaborate on a new data project.
 <br/>
-💬 Feel free to ask me any questions!
+💬 Feel free to ask me any questions! (click LinkedIn above)
 
 </div>
 
