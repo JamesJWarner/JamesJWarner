@@ -48,10 +48,10 @@
 
 ### :card_index_dividers: My Projects:
 
-Power-Bi : https://github.com/JamesJWarner/data-analytics-power-bi-report111
-EDA : https://github.com/JamesJWarner/exploratory-data-analysis---customer-loans-in-finance542
-Hangman : https://github.com/JamesJWarner/hangman
-Movie Assistant : https://github.com/JamesJWarner/movie-assistant
+- Power-Bi : https://github.com/JamesJWarner/data-analytics-power-bi-report111
+- EDA : https://github.com/JamesJWarner/exploratory-data-analysis---customer-loans-in-finance542
+- Hangman : https://github.com/JamesJWarner/hangman
+- Movie Assistant : https://github.com/JamesJWarner/movie-assistant
 
 
 ---
