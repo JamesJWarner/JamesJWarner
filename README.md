@@ -53,7 +53,6 @@
 
 [![Readme Card](https://github-readme-stats-james-warners-projects.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=hangman)](https://github.com/JamesJWarner/hangman)
 [![Readme Card](https://github-readme-stats-james-warners-projects.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=movie-assistant)](https://github.com/JamesJWarner/movie-assistant)
-[![Readme Card](https://github-readme-stats-james-warners-projects.vercel.app/api/pin/?username=JamesJWarner&theme=transparent&repo=movie-assistant)](https://github.com/JamesJWarner/movie-assistant)
 
 ---
 
